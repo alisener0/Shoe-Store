@@ -1,23 +1,30 @@
-# Shoe-Store
+👟 Shoe Store
 
-📦 Kullanılan Kütüphaneler ve Teknolojiler
-react-router-dom: Sayfalar arası yönlendirme ve navigasyon işlemleri için kullanılır.
+**Shoe Store** is a modern and responsive e-commerce website for a shoe store. Users can browse and filter products, view product details, and add items to the shopping cart. Built with HTML, CSS, and JavaScript, this project provides a user-friendly shopping experience.
+---
+🚀 Features
+👟 Product gallery showcasing various shoe styles
 
-react-toastify: Uygulama içindeki bildirimler ve uyarılar için kolay ve etkili bir araç.
+🛒 Shopping cart functionality
 
-json-server: Prototip veya test amaçlı basit bir REST API sunucusu oluşturmak için kullanılır.
+🔍 Product filter and search options
 
-tailwind: Hızlı ve özelleştirilebilir CSS framework’ü ile modern tasarımlar oluşturulur.
+📱 Fully responsive design for mobile and desktop
 
-@reduxjs/toolkit: Redux ile state yönetimini daha verimli hale getiren araç seti.
+🧼 Clean and modern UI
 
-axios: API isteklerini yapmak için kullanılan HTTP istemcisi.
+---
 
-xss: Cross-site scripting (XSS) saldırılarını engellemek için kullanılan güvenlik kütüphanesi.
+🛠️ Technologies Used
+HTML5
 
-uidotdev: UIDev'den React için kullanıcı arayüzü araçları ve bileşenleri sağlamak için kullanılır.
+CSS3 
 
-🧪 Testing Process
-BDD (Behavior Driven Development): Uygulama geliştirilirken işlevsel gereksinimlerin yazılım testi ile uyumlu şekilde tanımlanmasını sağlar.
+JavaScript 
+----
+👤 Developer
+Ali Şener
+---
 
-Responsive: Tasarımın tüm cihazlarda düzgün çalışmasını sağlayacak şekilde responsive (duyarlı) olarak geliştirilmiştir.
+https://github.com/user-attachments/assets/87862614-e830-4f82-9ef0-9259604062bf
+
